@@ -1,0 +1,1 @@
+ for {movie_search}, The basic information about this movie is: {movie_information}")
